@@ -1,9 +1,8 @@
-<div style="background-image: url('./images/fondo.gif'); background-size: cover; padding: 20px; text-align: center; color: white;">
-    <h1>👋 Hola, soy Carlos Rauda 💻</h1>
-    <h2>Bienvenido a mi perfil de GitHub</h2>
-</div>
 <h1 align="center">👋 Hola, soy Carlos Rauda 💻</h1>
 <h2 align="center">Bienvenido a mi perfil de GitHub</h2>
+<p align="center">
+    <img src="./images/fondo.gif" alt="Fondo decorativo" width="800" />
+</p>
 <h3 align="left">Sobre mí: </h3>
 
 - 🎓 **Estudiante de cuarto año**
